@@ -1,2 +1,2 @@
 # sv_terrenos
-Pequeño app para la administración de terrenos
+Pequeña app en Oracle Apex para la administración de terrenos
